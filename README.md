@@ -5,9 +5,9 @@ An end-to-end Machine Learning project that detects fraudulent credit card trans
 ---
 ## 🚀 Live Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_APP_URL)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-fraud-detection-financial-risk.streamlit.app/)
 
-👉 **Live Dashboard:** [AI Fraud Detection Dashboard](YOUR_STREAMLIT_APP_URL)
+👉 **Live Dashboard:** [AI Fraud Detection Dashboard](https://ai-fraud-detection-financial-risk.streamlit.app/)
 
 👉 **GitHub Repository:** [AI-Fraud-Detection-Financial-Risk](https://github.com/Mano-31/AI-Fraud-Detection-Financial-Risk)
 
