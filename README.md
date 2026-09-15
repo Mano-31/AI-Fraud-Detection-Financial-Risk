@@ -7,7 +7,7 @@ An end-to-end Machine Learning project that detects fraudulent credit card trans
 
 Try the deployed AI Fraud Detection Dashboard:
 
-👉 ![Launch AI Fraud Detection Dashboard](https://ai-fraud-detection-financial-risk.streamlit.app/)
+👉 (https://ai-fraud-detection-financial-risk.streamlit.app)
 
 ## 📌 Project Overview
 
