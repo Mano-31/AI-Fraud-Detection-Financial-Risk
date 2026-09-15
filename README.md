@@ -3,6 +3,11 @@
 An end-to-end Machine Learning project that detects fraudulent credit card transactions using **XGBoost**, **SMOTE**, and **Feature Engineering**, with an interactive **Streamlit Dashboard** for fraud detection, risk analysis, and transaction monitoring.
 
 ---
+## 🚀 Live Demo
+
+Try the deployed AI Fraud Detection Dashboard:
+
+👉 ![Launch AI Fraud Detection Dashboard](https://ai-fraud-detection-financial-risk.streamlit.app/)
 
 ## 📌 Project Overview
 
