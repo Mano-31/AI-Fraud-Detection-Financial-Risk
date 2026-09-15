@@ -13,9 +13,6 @@ env/
 # Dataset
 data/*.csv
 
-# Trained models
-models/*.pkl
-
 # Streamlit
 .streamlit/
 
