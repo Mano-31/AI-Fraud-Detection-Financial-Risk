@@ -23,3 +23,5 @@ data/*.csv
 # OS
 .DS_Store
 Thumbs.db
+
+models/fraud_detection_xgb.pkl
